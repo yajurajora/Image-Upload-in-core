@@ -1,0 +1,2 @@
+E:\Yaju\Image Upload In Core\ImageUploadInCore.Models\obj\Debug\ImageUploadInCore.Models.csproj.AssemblyReference.cache
+E:\Yaju\Image Upload In Core\ImageUploadInCore.Models\obj\Debug\ImageUploadInCore.Models.csproj.CoreCompileInputs.cache
